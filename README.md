@@ -1,2 +1,5 @@
 # test_repo
-To test something, or anything
+
+This repository was created to test and learn the functionalities of the GitHub platform.
+
+Hi, I am NAZ.
